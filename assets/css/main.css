@@ -3223,7 +3223,7 @@ input, select, textarea {
 
 		#wrapper:before {
 			background-attachment: fixed;
-			background-color: #49fcd4;
+			background-color: #B2AC88;
 			background-position: -50% 10%;
 			background-repeat: repeat-y;
 			background-size: 75% auto;
@@ -3290,7 +3290,7 @@ input, select, textarea {
 		}
 
 			#wrapper > section > header:before {
-				background: #43d9b8;
+				background: #B2AC88;
 				content: '';
 				display: block;
 				margin-top: 1rem;
@@ -3303,7 +3303,7 @@ input, select, textarea {
 			}
 
 				#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-					background: #43d9b8;
+					background: #B2AC88;
 					content: '';
 					display: block;
 					height: 2px;
@@ -3312,7 +3312,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section > header h1:after, #wrapper > section > header h2:after {
-					background: #43d9b8;
+					background: #B2AC88;
 					border-radius: 0.5rem;
 					content: '';
 					display: block;
